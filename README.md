@@ -1,4 +1,4 @@
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mekhaelt/mekhaelt/main.yml?label=action&style=flat-square)](https://github.com/mekhaelt/mekhaelt/actions/workflows/main.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mekhaelt/mekhaelt/main.yml?label=action&style=flat-square)](https://github.com/mekhaelt/mekhaelt/.github/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/mekhaelt/snk.svg?style=flat-square)](https://github.com/mekhaelt/snk/releases/latest)
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
@@ -19,9 +19,4 @@
     src="https://raw.githubusercontent.com/mekhaelt/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
-Generate a [gif](https://github.com/mekhaelt/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/mekhaelt/snk/raw/output/github-contribution-grid-snake.svg) image.
-
-Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
